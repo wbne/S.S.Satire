@@ -1,0 +1,19 @@
+body{
+
+	font-size: %100;
+	
+}
+p{
+	
+	font-family: Trebuchet MS;
+	font-size: .875em;
+}
+h1{
+	font-family: Grill Sans, Arial;
+	font-size: 1.6em;
+}
+#main{
+margin-left: 15%;
+margin-right: 15%;
+margin-top: 5%;
+}
