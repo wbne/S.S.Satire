@@ -1,3 +1,3 @@
 # S.S.Satire
-A satirical article about standardized testing
+A "news" site about obesity for a school project
 https://wbne.github.io/S.S.Satire
