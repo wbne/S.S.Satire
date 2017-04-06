@@ -17,17 +17,21 @@ h1{
 
 }
 #story{
-
+	margin-right: 50%;
+	margin-left: 15%;
+	margin-top: 5%;
 
 
 }
 #sideinfo{
-	
+	margin-left: 50%;
+	margin-right: 15%;
+	margin-top: 5%;
 
 }
 #boxy{
 	vertical-align: top;
-	margin: 0 auto;
+	
 }
 
 
