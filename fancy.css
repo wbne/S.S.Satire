@@ -13,13 +13,11 @@ h1{
 	margin-left: 15%;
 	margin-right: 15%;
 	margin-top: 5%;
-
+	width: 100%;
 
 }
 #story{
-	margin-left: 10%;
-	margin-right: 50%;
-	margin-top: 55;
+
 
 
 }
@@ -29,6 +27,7 @@ h1{
 }
 #boxy{
 	vertical-align: top;
+	margin: 0 auto;
 }
 
 
