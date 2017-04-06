@@ -50,16 +50,8 @@ h1{
 	cursor: pointer;
 }
 .container {
-    margin:  30px auto;
-    width: 90%;
+ display:table;
 }
-
-.container > div {
-    width: 50%;
-}
-.col1 {
-    float: left;
-}
-.col2 {
-    float: right;
+.col1, .col2 {
+ display:table-cell;
 }
