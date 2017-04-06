@@ -20,7 +20,7 @@ h1{
 	margin-right: 50%;
 	margin-left: 15%;
 	margin-top: 5%;
-	width: 50%;
+	
 	float: left;
 
 }
@@ -28,7 +28,7 @@ h1{
 	margin-left: 50%;
 	margin-right: 15%;
 	margin-top: 5%;
-	width: 50%;
+	
 	float: right;
 
 }
@@ -48,4 +48,18 @@ h1{
 .story:hover{
 	background-color: #007a99;
 	cursor: pointer;
+}
+.container {
+    margin:  30px auto;
+    width: 90%;
+}
+
+.container > div {
+    width: 50%;
+}
+.col1 {
+    float: left;
+}
+.col2 {
+    float: right;
 }
