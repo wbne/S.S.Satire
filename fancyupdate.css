@@ -39,14 +39,10 @@ h1{
 .navigation a:hover {
   background: darken(deepskyblue, 2%);
 }
-@media all and (max-width: 800px) {
+
+@media all and (max-width: 100%) {
   .navigation {
     justify-content: space-around;
-  }
-}
-
-@media all and (max-width: 600px) {
-  .navigation {
     -webkit-flex-flow: column wrap;
     flex-flow: column wrap;
     padding: 0;
@@ -75,7 +71,7 @@ h1{
 #lstory{
 	float: left;
 	height: 250px;
-	width: 80%;
+	width: 70%;
 	padding: 1em 2em 1em 2em;
 	margin-top: 10px;
 }
