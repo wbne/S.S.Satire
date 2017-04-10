@@ -31,12 +31,12 @@ h1{
 #footer{
 	float: down;
 }
-#flexyboxy{
+.flexyboxy{
 	display: flex;
 	flex-direction: column;
 	align-items: stretch;
 }
-#contentbox{
+.contentbox{
 	flex-basis: auto;
 }
 
