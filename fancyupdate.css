@@ -18,7 +18,7 @@ h1{
 #rsideinto{
 	float:right;
 	max-width: 10em;
-	max-height: 250px;
+	height: 250px;
 	margin-left: 5px;
 }
 #lstory{
