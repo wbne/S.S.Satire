@@ -1,0 +1,61 @@
+body{
+	font-size: %100;
+	width: 100%;
+}
+p{
+	font-family: Trebuchet MS;
+	font-size: .875em;
+}
+h1{
+	font-family: Grill Sans, Arial;
+	font-size: 1.6em;
+}
+#main{
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: 5%;
+
+
+}
+#rsideinto{
+	float:right;
+	max-width: 10em;
+	max-height: 250px;
+	margin-left: 5px;
+}
+#lsideinfo{
+	float:left;
+	width: 10em;
+	height: 250px;
+	margin-right: 2px;}
+
+#lstory{
+	float: left;
+	height: 250px;
+	max-width: 700px;
+	padding: 1em 2em 1em 2em;
+	margin-top: 10px;
+}
+#rstory{
+	float: right;
+	overflow-y:visible;
+	height: 250px;
+	max-width: 1000px;
+}
+#footer{
+	float: down;
+}
+
+
+
+.story{
+	border: 5px solid;
+	border-radius: 5px;
+	background-color: #33d6ff;
+-webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+}
+.story:hover{
+	background-color: #007a99;
+	cursor: pointer;
+}
