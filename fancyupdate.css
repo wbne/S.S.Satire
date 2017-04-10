@@ -15,12 +15,6 @@ h1{
 	margin-right: 15%;
 	margin-top: 5%;
 }
-#rsideinto{
-	float:right;
-	max-width: 10em;
-	height: 250px;
-	margin-left: 5px;
-}
 #lstory{
 	float: left;
 	height: 250px;
@@ -30,14 +24,6 @@ h1{
 }
 #footer{
 	float: down;
-}
-.flexyboxy{
-	display: -webkit-flex;
-	-webkit-flex-direction: column;
-	align-items: stretch;
-}
-.contentbox{
-	-webkit-flex-basis: auto;
 }
 
 
