@@ -1,5 +1,18 @@
 @import "compass/css3";
 
+body{
+	font-size: %100;
+	width: 100%;
+}
+p{
+	font-family: Trebuchet MS;
+	font-size: .875em;
+}
+h1{
+	font-family: Grill Sans, Arial;
+	font-size: 1.6em;
+}
+
 .navigation {
   list-style: none;
   margin: 0; 
@@ -53,18 +66,7 @@
 }
 
 
-body{
-	font-size: %100;
-	width: 100%;
-}
-p{
-	font-family: Trebuchet MS;
-	font-size: .875em;
-}
-h1{
-	font-family: Grill Sans, Arial;
-	font-size: 1.6em;
-}
+
 #main{
 	margin-left: 15%;
 	margin-right: 15%;
