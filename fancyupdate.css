@@ -82,7 +82,7 @@ h1{
 .story{
 	border: 5px solid;
 	border-radius: 5px;
-	background-color: #33d6ff;
+	background-color: deepskyblue;
 -webkit-transition-duration: 0.5s;
     transition-duration: 0.5s;
 }
