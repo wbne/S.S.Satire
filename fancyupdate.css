@@ -2,7 +2,7 @@
 
 body{
 	font-size: %100;
-	width: 100%;
+	width: 99%;
 }
 p{
 	font-family: Trebuchet MS;
@@ -16,7 +16,7 @@ h1{
 .navigation {
   list-style: none;
   margin: 0; 
-  width: 100%;
+  width: auto;
   
   background: deepskyblue;
   
