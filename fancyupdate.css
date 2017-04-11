@@ -73,7 +73,9 @@ h1{
 }
 #side{
 	float: right;
-	width: 29%;
+	width: 24%;
+	margin-top: 10px;
+	text-align: center;
 }
 
 
