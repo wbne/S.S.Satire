@@ -75,7 +75,7 @@ h1{
 	float: right;
 	background-color: #33bbee;
 	width: 24%;
-	height: 100%;
+	height: auto;
 	margin-top: 10px;
 	text-align: center;
 }
