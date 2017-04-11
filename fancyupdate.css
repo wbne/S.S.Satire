@@ -14,7 +14,6 @@ h1{
 }
 li{
 	font-family: Trebuchet MS;
-	font-size: 1em;
 }
 
 .navigation {
@@ -63,6 +62,7 @@ li{
 	margin-right: 30%;
 	margin-top: 5%;
 	background-color: #33bbee;
+	font-size: 1em;
 }
 #lstory{
 	float: left;
