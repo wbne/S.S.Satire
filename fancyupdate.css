@@ -60,9 +60,10 @@ li{
 #main{
 	margin-left: 10%;
 	margin-right: 30%;
-	margin-top: 5%;
+	margin-top: 10px;
 	background: #33bbee;
 	font-size: 1em;
+	padding: 1em 2em 1em 2em;
 }
 #lstory{
 	float: left;
