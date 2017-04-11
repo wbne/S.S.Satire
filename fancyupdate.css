@@ -37,14 +37,12 @@ h1{
 }
 
 .navigation a:hover {
-  background: darken(deepskyblue, 2%);
+  background: #000000;
 }
 
 @media all and (max-width: 100%) {
   .navigation {
     justify-content: space-around;
-    -webkit-flex-flow: column wrap;
-    flex-flow: column wrap;
     padding: 0;
   }
   
