@@ -2,7 +2,7 @@
 
 body{
 	width: 99%;
-        background: #d9d9d9;
+        background: #33bbee;
 }
 p{
 	font-family: Trebuchet MS;
@@ -21,7 +21,7 @@ li{
   margin: 0; 
   width: auto;
   
-  background: deepskyblue;
+  background: #fff;
   display: -webkit-flex;
   display: flex;
   
@@ -33,14 +33,14 @@ li{
   text-decoration: none;
   display: block;
   padding: 1em;
-  color: white;
+  color: black;
   font-family: Trebuchet MS;
   text-align: center;
   font-weight: bold;
 }
 
 .navigation a:hover {
-  background: #000000;
+  background: #777;
 }
 
 @media all and (max-width: 100%) {
