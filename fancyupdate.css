@@ -83,10 +83,27 @@ li{
 	margin-top: 10px;
 	text-align: center;
 	padding: 3px;
+	font-size: 1.5em;
 }
 #banner{
 	width: 100%;
 }
+#test1{
+	width: 33%;
+	float: left;
+}
+#test2{
+	width: 33%;
+	float: auto;
+}
+#test3{
+	width: 33%;
+	float: right;
+	
+}
+
+
+
 
 
 .story{
