@@ -84,6 +84,7 @@ li{
 	text-align: center;
 	padding: 3px;
 	font-size: 1.5em;
+	line-height: 200%;
 }
 #banner{
 	width: 100%;
@@ -91,14 +92,17 @@ li{
 #test1{
 	width: 33%;
 	float: left;
+	background-color: red;
 }
 #test2{
 	width: 33%;
 	float: auto;
+	background-color: blue;
 }
 #test3{
 	width: 33%;
 	float: right;
+	background-color: green;
 	
 }
 
