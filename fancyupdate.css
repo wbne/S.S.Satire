@@ -2,7 +2,7 @@
 
 body{
 	width: 99%;
-        background: #33bbee;
+        background: #cccccc;
 }
 p{
 	font-family: Trebuchet MS;
@@ -76,6 +76,7 @@ li{
 	float: down;
 }
 #side{
+	font-size: 1.3em
 	float: right;
 	background-color: #33bbee;
 	width: 24%;
@@ -83,6 +84,7 @@ li{
 	margin-top: 10px;
 	text-align: center;
 	padding: 3px;
+	line-height: 200%
 }
 #banner{
 	width: 100%;
